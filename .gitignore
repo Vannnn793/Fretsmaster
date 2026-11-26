@@ -1,0 +1,9 @@
+*.zip
+*.tar.gz
+*.rar
+*.7z
+.dart_tool/
+build/
+.gradle/
+*.apk
+.env

@@ -1,0 +1,6 @@
+{
+  "name": "fretmaster-developer-kit",
+  "displayName": "FretMaster Developer Kit",
+  "description": "Auto-enforces codebase-design (deep modules) and frontend-design (intentional UI) skills across all coding tasks.",
+  "version": "1.0.0"
+}

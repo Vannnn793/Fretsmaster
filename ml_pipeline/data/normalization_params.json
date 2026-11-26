@@ -1,0 +1,20 @@
+{
+  "num_features": 63,
+  "landmark_count": 21,
+  "channels": 3,
+  "reference_joint_origin": 0,
+  "reference_joint_scale_target": 9,
+  "epsilon": 0.0001,
+  "classes": [
+    "A",
+    "Am",
+    "B",
+    "C",
+    "D",
+    "Dm",
+    "E",
+    "Em",
+    "F",
+    "G"
+  ]
+}
